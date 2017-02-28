@@ -54,3 +54,4 @@ def tiao():
     print "Aurevoir et merci de votre visite!"
 
 hello()
+hello()
